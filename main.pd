@@ -5501,7 +5501,7 @@ thier work.;
 #X obj 216 517 vca 3;
 #X obj 943 361 1to4-switch 5;
 #X obj 543 572 wavefold 1;
-#X obj 926 547 vca 2;
+#X obj 821 571 vca 2;
 #X obj 433 368 vca 2;
 #X obj 421 497 vca 3;
 #X obj 918 23 tt-btns~;
