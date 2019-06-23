@@ -5494,16 +5494,16 @@ on to it as it is really good for any CV that doesn't need to be 1v/o
 \, https://github.com/joebauer and https://www.automatonism.com/ I
 just mangled some code from the geniuses and claim no ownership over
 thier work.;
-#X obj 462 665 vca 2;
+#X obj 445 676 vca 2;
 #X text 862 88 bypass;
 #X obj 200 349 trigons 1;
 #X obj 629 339 basic-osc 3;
-#X obj 216 517 vca 3;
-#X obj 943 361 1to4-switch 5;
-#X obj 543 572 wavefold 1;
+#X obj 192 501 vca 3;
+#X obj 969 360 1to4-switch 5;
+#X obj 598 571 wavefold 1;
 #X obj 821 571 vca 2;
 #X obj 433 368 vca 2;
-#X obj 421 497 vca 3;
+#X obj 960 480 vca 3;
 #X obj 918 23 tt-btns~;
 #X obj 1372 450 tedium_output 26;
 #X obj 1370 342 f;
@@ -5537,7 +5537,7 @@ thier work.;
 #X connect 36 0 34 0;
 #X connect 36 0 9 1;
 #X connect 37 0 31 3;
-#X connect 38 0 33 1;
+#X connect 38 0 29 1;
 #X connect 39 2 34 1;
 #X connect 41 0 42 0;
 #X connect 41 0 43 0;
